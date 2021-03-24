@@ -1,0 +1,30 @@
+.tout{
+    justify-content: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.base{
+    background-color: orangered;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 5px;
+    height: 150px;
+}
+
+.b1{
+    width: 100vw;
+}
+
+.b2{
+    width: 48.8vw;
+}
+
+.b3{
+    width: 32.32vw;
+}
+
+.b12{
+    width: 7.59vw;
+}

@@ -1,0 +1,14 @@
+.tout{
+    background-color: blanchedalmond;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+.flex-item{
+    justify-content: center;
+    background-color: orangered;
+    height: 100px;
+    margin: 5px;
+    padding: 40px;
+    display:flex
+}
