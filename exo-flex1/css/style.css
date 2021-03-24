@@ -1,9 +1,14 @@
 .tout{
-    background-color: blanchedalmond;
+    
     align-items: center;
     height: 100vh;
     display: flex;
 }
+
+body{
+    background-color: blanchedalmond;
+}
+
 .flex-item{
     justify-content: center;
     background-color: orangered;
